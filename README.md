@@ -200,7 +200,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👨‍💻 Autor
 
 **Seu Nome**
-- GitHub: [@seu-usuario](https://github.com/jh31barbosa)
+- GitHub: [@jh31barbosa](https://github.com/jh31barbosa)
 - LinkedIn: [José Henrique](https://linkedin.com/in/jh29-dev)
 - Email: jh29.dev@gmail.com
 
